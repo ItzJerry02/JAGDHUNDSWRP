@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "101st Airborne, E. Company";
+var l_serverName = " ";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -61,6 +61,7 @@ var l_bgImages = [
 	"backgrounds/images/9.jpg",
 	"backgrounds/images/10.jpg",
 	"backgrounds/images/11.jpg",
+	"backgrounds/images/12.jpg",
 ];
 
 /*Random background images order?*/
@@ -93,10 +94,10 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "fkXh-zdzuTI", name: "String Quartet in C-sharp minor, Op. 131"},
-	{youtube: "6pxRAKwsE", name: "03 Omaha Beach"},
-	{youtube: "1DUN1B8eaksI", name: "B.O.B"},
-	{youtube: "0P47yvI7SWM", name: "The Pacific"},
+	{youtube: "bsOA_SqsUj0", name: ""},
+	{youtube: "eb2zuegwcwk", name: ""},
+	{youtube: "zoY_nxL-4vw", name: ""},
+	{youtube: "3I-5lb9M8v0", name: ""},
 ];
 
 /*Random music order?*/
@@ -111,7 +112,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"There Will Be No Leaning In My Company",
+"https://steamcommunity.com/sharedfiles/filedetails/?id=1449188288",
 "Feel Free To Recommend Some Shit",
 "Sorry If The Music Is Annoying",
 "Jagdhund Gaming",
